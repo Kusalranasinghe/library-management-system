@@ -1,0 +1,16 @@
+C:\Users\Lenovo\source\repos\Librarymngmntsystem\Librarymngmntsystem\bin\Debug\Librarymngmntsystem.exe.config
+C:\Users\Lenovo\source\repos\Librarymngmntsystem\Librarymngmntsystem\bin\Debug\Librarymngmntsystem.exe
+C:\Users\Lenovo\source\repos\Librarymngmntsystem\Librarymngmntsystem\bin\Debug\Librarymngmntsystem.pdb
+C:\Users\Lenovo\source\repos\Librarymngmntsystem\Librarymngmntsystem\obj\Debug\Librarymngmntsystem.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Librarymngmntsystem\Librarymngmntsystem\obj\Debug\Librarymngmntsystem.Form1.resources
+C:\Users\Lenovo\source\repos\Librarymngmntsystem\Librarymngmntsystem\obj\Debug\Librarymngmntsystem.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Librarymngmntsystem\Librarymngmntsystem\obj\Debug\Librarymngmntsystem.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Librarymngmntsystem\Librarymngmntsystem\obj\Debug\Librarymngmntsystem.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Librarymngmntsystem\Librarymngmntsystem\obj\Debug\Librarymngmntsystem.exe
+C:\Users\Lenovo\source\repos\Librarymngmntsystem\Librarymngmntsystem\obj\Debug\Librarymngmntsystem.pdb
+C:\Users\Lenovo\source\repos\Librarymngmntsystem\Librarymngmntsystem\obj\Debug\Librarymngmntsystem.login.resources
+C:\Users\Lenovo\source\repos\Librarymngmntsystem\Librarymngmntsystem\obj\Debug\Librarymngmntsystem.dashboard2.resources
+C:\Users\Lenovo\source\repos\Librarymngmntsystem\Librarymngmntsystem\obj\Debug\Librarymngmntsystem.Bookstock.resources
+C:\Users\Lenovo\source\repos\Librarymngmntsystem\Librarymngmntsystem\obj\Debug\Librarymngmntsystem.UserRegistration.resources
+C:\Users\Lenovo\source\repos\Librarymngmntsystem\Librarymngmntsystem\obj\Debug\Librarymngmntsystem.Borrowedbooks.resources
+C:\Users\Lenovo\source\repos\Librarymngmntsystem\Librarymngmntsystem\obj\Debug\Librarymngmntsystem.ReturnBooks.resources
